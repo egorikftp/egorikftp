@@ -12,6 +12,14 @@
 - 📝 Small news and insides from Android and Compose world: [Why Android?](https://t.me/whydroid)
 - 📫 How to reach me **egorikftp@gmail.com**
 
+
+- Latest blog posts:
+  - [How I made beautiful screenshots for Google Play (Developer experience)](https://link.medium.com/iKuw1PSdMhb)
+        
+  ![image](https://user-images.githubusercontent.com/16294951/125161572-bfd45700-e18b-11eb-8792-fb5741e197ef.png)
+
+ 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yahor-urbanovich" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="yahor-urbanovich" height="30" width="40" /></a>
