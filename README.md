@@ -1,9 +1,14 @@
 <h1 align="center">Hi, I'm Yahor</h1>
 <h3 align="center">Inspired with new tools and technologies</h3>
 
+<p align="center">
+ <br/>
  <img alt="Why Android logo" src="why_android_logo.png" width="150" />
- 
-Powered by [Why Android?](https://t.me/whydroid) community
+ <br/>
+ <a>Powered by</a>
+ <a href="https://t.me/whydroid">Why Android?</a>
+ <a>community</a>
+</p>
 
 <hr/>
 
