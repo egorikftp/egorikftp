@@ -1,13 +1,11 @@
 <h1 align="center">Hi, I'm Yahor</h1>
 <h3 align="center">Inspired with new tools and technologies</h3>
 
-<div align="center">
-    <img alt="Why Android logo" src="why_android_logo.png" width="200" />
-</div>
+ <img alt="Why Android logo" src="why_android_logo.png" width="150" />
+ 
+Powered by [Why Android?](https://t.me/whydroid) community
 
-<h2 align="center">
-   Powered by [Why Android?](https://t.me/whydroid) community
-</h2>
+<hr/>
 
 <h3>Open source projects</h3>
 <table>
