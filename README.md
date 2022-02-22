@@ -1,6 +1,14 @@
 <h1 align="center">Hi, I'm Yahor</h1>
 <h3 align="center">Inspired with new tools and technologies</h3>
 
+<div align="center">
+    <img alt="Why Android logo" src="why_android_logo.png" width="200" />
+</div>
+
+<h2 align="center">
+   Powered by [Why Android?](https://t.me/whydroid) community
+</h2>
+
 <h3>Open source projects</h3>
 <table>
   <thead align="center">
@@ -52,7 +60,7 @@
 
 <li>
   <a href="https://proandroiddev.com/implement-themed-icons-android-13-d20b89233681">
-    <b>Implement Themed Icons (Android 13)</b>
+    <b>Implement Themed Icons (Android 12+)</b>
   </a>
 </li>
 
@@ -60,22 +68,12 @@
 <h3>Where to find me</h3>
 <p>
   <a href="https://github.com/egorikftp" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/yahor-urbanovich" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://medium.com/@egorikftp" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
-   <a href="mailto:pcarneiro.dev@gmail.com" target="_blank"><img alt="Gmail" src="https://shields.io/badge/-gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://linkedin.com/in/yahor-urbanovich" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:pcarneiro.dev@gmail.com" target="_blank"><img alt="Gmail" src="https://shields.io/badge/-gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://play.google.com/store/apps/dev?id=5954173160645994724" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Google%20Play-414141?logo=google-play&logoColor=white&style=for-the-badge" /></a>
 </p>
 
-
-
-- 👨‍💻 All of my published projects are available at [Google Play](https://play.google.com/store/apps/dev?id=5954173160645994724)
-- 📝 Small news and insides from Android and Compose world: [Why Android?](https://t.me/whydroid)
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
-
-<p><img src="https://github-readme-stats.vercel.app/api?username=egorikftp&show_icons=true&locale=en" alt="egorikftp" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=egorikftp&show_icons=true&locale=en&layout=compact" alt="egorikftp" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=egorikftp&" alt="egorikftp" /></p>
 
 
