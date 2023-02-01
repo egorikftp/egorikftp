@@ -80,7 +80,7 @@
   <a href="https://github.com/egorikftp" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
   <a href="https://medium.com/@egorikftp" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
   <a href="https://linkedin.com/in/yahor-urbanovich" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:pcarneiro.dev@gmail.com" target="_blank"><img alt="Gmail" src="https://shields.io/badge/-gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge" /></a>
+  <a href="mailto:egorikftp@gmail.com" target="_blank"><img alt="Gmail" src="https://shields.io/badge/-gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge" /></a>
   <a href="https://play.google.com/store/apps/dev?id=5954173160645994724" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Google%20Play-414141?logo=google-play&logoColor=white&style=for-the-badge" /></a>
 </p>
 
